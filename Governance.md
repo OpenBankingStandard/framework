@@ -1,3 +1,6 @@
+Status: Draft
+Date: 20160423
+Version: 0.1
 # Opening Banking Standard Governance Model
 
 ## Core Technical Committee
