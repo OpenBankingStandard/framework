@@ -19,7 +19,7 @@ This repository (framework) is for over-arching matters.
 
 ## Governance
 
-*The governance structure has yet to be defined.*
+*A draft governance model has been proposed - see [Governance.md](./Governance.md)*
 
 ## Communications
 
