@@ -2,15 +2,29 @@
 
 This repository forms part of the Open Banking Standard initiative, which is intended to build upon the work of the Open Banking Working Group (OBWG) and contribute towards the development of an Open Banking Standard.
 
+* [Proposed Governance Model](./Governance.md)
+
+## High-level Approach
+
 The following proposals have been made:
 
 1. **Begin developing the technical aspects of the Standard using Github.** Github is free, open and transparent - anyone who is interested in participating can do so by submitting a pull request, which can then be discussed and voted on by anyone who wishes to be involved.  
 
-2. **Focus on three key areas to begin with: Open Data, Authentication & Authorisation, and the Account Information API** (i.e. the "read only" use case). Corresponding repositories have been created: [open-data](http://www.github.com/OpenBankingStandard/open-data), [auth](http://www.github.com/OpenBankingStandard/auth), and [account-information-api](http://www.github.com/OpenBankingStandard/account-information-api). Implicitly, the Payment Initiation and Account Management use cases will be put on the back burner for the time being.  
+2. **Focus on three key areas to begin with: Open Data, Authentication & Authorisation, and the Account Information API** (i.e. the "read only" use case). Corresponding repositories have been created: [`open-data`](http://www.github.com/OpenBankingStandard/open-data), [`auth`](http://www.github.com/OpenBankingStandard/auth), and [`account-information-api`](http://www.github.com/OpenBankingStandard/account-information-api). Implicitly, the Payment Initiation and Account Management use cases will be put on the back burner for the time being.  
 
-3. **Use the [OBWG Report](obwg_report_final.pdf) as the starting point** - begin by transposing the relevant portions of the Report into markdown on Github, and iterate from there. 
+3. **Use the [OBWG Report](obwg_report_final.pdf) as the starting point** - begin by transposing the relevant portions of the Report into markdown on Github, and iterate from there. An index of which sections of the Report have been transposed is maintained [here](./Report_Index.md). 
 
-This repository (framework) is for over-arching matters.
+This repository (`framework`) is for over-arching matters.
+
+## Workflow
+To float ideas or make conceptual suggestions, post to the [Open Banking mailing group](https://groups.google.com/forum/#!forum/openbanking).
+
+To contribute to one of the repositories:  
+1. Branch the repository. 
+2. Make your changes.
+3. Push the branch.
+4. Create a pull request with a description of the changes you've made.
+5. Members of the community will then be able to review and comment on (or [react to](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)) your proposed changes.
 
 ## Principles
 
@@ -18,11 +32,6 @@ This repository (framework) is for over-arching matters.
 * **Transparent** - The Standard should be developed, and decisions should be made, in as transparent a manner as possible. 
 * **Voluntary** - This initiative is currently a voluntary one. It should be assumed that anyone participating or contributing is acting in a personal capacity (and not, for example, on behalf of their employer), unless they explicitly state otherwise.
 * **Collaborative** - This effort is intended to contribute towards the creation of an Open Banking Standard. We will seek to align and collaborate with other efforts that have the same objective and garner support from the community and industry (including the ODI's proposals).
-
-
-## Governance
-
-*A draft governance model has been proposed - see [Governance.md](./Governance.md)*
 
 ## Communications
 
