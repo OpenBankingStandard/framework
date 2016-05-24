@@ -1,6 +1,10 @@
 # Report Index
 
-|Report section|[`account-information-api`](http://www.github.com/OpenBankingStandard/account-information-api)|[`auth`](http://www.github.com/OpenBankingStandard/auth)|[`framework`](http://www.github.com/OpenBankingStandard/framework)|[`open-data`](http://www.github.com/OpenBankingStandard/open-data)|
+The original PDF version of the OBWG Report can be found [here](./obwg_report_final.pdf)
+
+Parts of the Report have been transcribed into markdown under the relevant repository. The extracts can be found in a file named `Report.md` in the root of the repository.
+
+|Report section|`account-information-api`|[`auth`](https://github.com/OpenBankingStandard/auth/blob/master/Report.md)|`framework`|[`open-data`](https://github.com/OpenBankingStandard/open-data/blob/master/Report.md)|
 |:---|:---:|:---:|:---:|:---:|
 |**1. Executive Summary**|||||
 |**2. Introduction**|||||

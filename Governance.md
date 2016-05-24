@@ -1,12 +1,13 @@
 # Opening Banking Standard Governance Model
 
 Status: DRAFT  
-Date: 20160423  
-Version: 0.1  
+Date: 20160520  
+Version: 0.2  
 
+---
 ## Core Technical Committee
 
-The Open Banking API project is jointly governed by a Core Technical Committee (CTC) which is responsible for high-level guidance of the project.
+The Open Banking Standard project is jointly governed by a Core Technical Committee (CTC) which is responsible for high-level guidance of the project.
 
 The CTC has final authority over this project including:
 
@@ -17,28 +18,27 @@ The CTC has final authority over this project including:
 * Conduct guidelines
 * Maintaining the list of additional Collaborators
 
-Initial membership invitations to the CTC were given to individuals who had been active contributors to Open Banking API, and who have significant experience with the management of the Open Banking API project. Membership is expected to evolve over time according to the needs of the project.
+Initial membership invitations to the CTC were given to individuals who had been involved in the Open Banking Working Group and have relevant experience in the financial technology sector. Membership is expected to evolve over time according to the needs of the project.
 
 For the current list of CTC members, see the project
-[README.md](./README.md#current-project-team-members).
+[README.md](./README.md).
 
 ## Collaborators
 
-The [**TO Be Defined**) GitHub repository is maintained by the CTC and additional Collaborators who are added by the CTC on an ongoing basis.
+The Open Banking Standard GitHub repositories are maintained by the CTC and additional Collaborators who are added by the CTC on an ongoing basis.
 
 Individuals making significant and valuable contributions are made Collaborators and given commit-access to the project. These individuals are identified by the CTC and their addition as Collaborators is discussed during the weekly CTC meeting.
 
 _Note:_ If you make a significant contribution and are not considered for commit-access, log an issue or contact a CTC member directly and it will be brought up in the next CTC meeting.
 
-Modifications of the contents of the **Github/XXX** repository are made on a collaborative basis. Anybody with a GitHub account may propose a modification via pull request and it will be considered by the project Collaborators. All pull requests must be reviewed and accepted by a Collaborator with sufficient expertise who is able to take full responsibility for the change. In the case of pull requests proposed by an existing Collaborator, an additional Collaborator is required for sign-off. Consensus should be sought if additional Collaborators participate and there is disagreement around a particular modification. See _Consensus Seeking Process_ below for further detail on the consensus model used for governance.
+Modifications of the contents of the Open Banking Standard repositories are made on a collaborative basis. Anybody with a GitHub account may propose a modification via pull request and it will be considered by the project Collaborators. All pull requests must be reviewed and accepted by a Collaborator with sufficient expertise who is able to take full responsibility for the change. In the case of pull requests proposed by an existing Collaborator, an additional Collaborator is required for sign-off. Consensus should be sought if additional Collaborators participate and there is disagreement around a particular modification. See _Consensus Seeking Process_ below for further detail on the consensus model used for governance.
 
 Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found consensus to the CTC for discussion by assigning the ***ctc-agenda*** tag to a pull request or issue. The CTC should serve as the final arbiter where required.
 
-For the current list of Collaborators, see the project
-**To Be Defined**).
+For the current list of Collaborators, see the project 
+[README.md](./README.md).
 
-A guide for Collaborators is maintained in
-[COLLABORATOR_GUIDE.md](./COLLABORATOR_GUIDE.md).
+A guide for Collaborators will be created and published in [COLLABORATOR_GUIDE.md](./COLLABORATOR_GUIDE.md). (TBD)
 
 ## CTC Membership
 
@@ -56,12 +56,11 @@ No more than 1/3 of the CTC members may be affiliated with the same employer.  I
 
 ## CTC Meetings
 
-The CTC meets weekly on a Google Hangout On Air. The meeting is run by a designated moderator approved by the CTC. Each meeting should be published to YouTube.
+CTC meetings are scheduled on an ad hoc basis, as required. In time, the objective is that meetings should take place on Google Hangout On Air and published to YouTube. Meetings will be run by a designated moderator approved by the CTC. 
 
 Items are added to the CTC agenda which are considered contentious or are modifications of governance, contribution policy, CTC membership, or release process.
 
-The intention of the agenda is not to approve or review all patches.
-That should happen continuously on GitHub and be handled by the larger group of Collaborators.
+The intention of the agenda is not to approve or review all patches. That should happen continuously on GitHub and be handled by the larger group of Collaborators.
 
 Any community member or contributor can ask that something be added to the next meeting's agenda by logging a GitHub Issue. Any Collaborator, CTC member or the moderator can add the item to the agenda by adding the ***ctc-agenda*** tag to the issue.
 
@@ -79,5 +78,7 @@ The CTC follows a
 When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
 
 If an agenda item cannot reach a consensus, a CTC member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be approved by a majority of the CTC or else the discussion will continue. Simple majority wins.
+
+---
 
 Based on the Node.js governance https://nodejs.org/en/about/governance/
