@@ -49,13 +49,14 @@ The following proposals have been made but have not yet been formally adopted by
 ## Workflow
 To float ideas, make suggestions or seek feedback on proposed changes/additions to any of the repositories, post to the [Open Banking mailing group](https://groups.google.com/forum/#!forum/openbanking).
 
-To contribute to any of the repositories: 
-1. Branch the repository. 
-2. Make your changes.
-3. Push the branch.
-4. Create a pull request with a description of the changes you've made.
-5. Members of the community will then be able to review and comment on (or [react to](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)) your proposed changes.
-6. The Collaborators and/or CTC will review and decide whether to accept or reject the pull request. 
+To contribute to any of the repositories:  
+
+1. Branch the repository.  
+2. Make your changes.  
+3. Push the branch.  
+4. Create a pull request with a description of the changes you've made.  
+5. Members of the community will then be able to review and comment on (or [react to](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)) your proposed changes.  
+6. The Collaborators and/or CTC will review and decide whether to accept or reject the pull request.  
 
 
 ## Principles
